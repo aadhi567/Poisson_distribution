@@ -1,6 +1,8 @@
 # Fitting Poisson  distribution
 
-developed by AADHITHAN B , REGISTER NO : 212224040001
+# Namey AADHITHAN B 
+# REGISTER NO : 212224040001
+# Date : 14/03/25
 
 # Aim : 
 
