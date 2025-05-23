@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# EX NO:2 Fitting Poisson  distribution
 
 # Namey AADHITHAN B 
 # REGISTER NO : 212224040001
